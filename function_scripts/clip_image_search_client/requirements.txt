@@ -1,0 +1,5 @@
+functions-framework==3.8.2
+flask==3.0.3
+google-cloud-error-reporting==1.11.1
+gradio_client==1.7.2
+MarkupSafe==2.1.3
